@@ -3,17 +3,7 @@
 - **Name**: Jasmitha Nalla
 - **Course**: Big data Analytics
 - **University**: University of Central Missouri
-# Python Practice Exercises
 
-This repository contains a collection of beginner-friendly Python exercises covering:
-
-- String manipulation
-- List operations
-- Set operations
-- Basic arithmetic
-- Conditional statements
-
-## 🔧 Exercises Included
 
 ### 1. String Character Deletion and Reversal
 - Input: A string like `"python"` as a list
